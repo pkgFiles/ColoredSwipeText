@@ -1,0 +1,4 @@
+module ColoredSwipeTextPrefsC {
+    umbrella "."
+    export *
+}

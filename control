@@ -1,0 +1,9 @@
+Package: com.pkgfiles.coloredswipetext
+Name: ColoredSwipeText
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Color the "Swipe up to open" text with ease.
+Maintainer: pkgFiles
+Author: pkgFiles
+Section: Tweaks
+Depends: dev.theos.orion14, firmware (>= 16.0)

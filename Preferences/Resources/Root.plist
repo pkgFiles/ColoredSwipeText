@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>items</key>
+	<array>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string> </string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>ColoredSwipeTextPrefs.CSTSingleCreditCell</string>
+			<key>height</key>
+			<real>60</real>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>label</key>
+			<string>General</string>
+		</dict>
+		<dict>
+			<key>cellClass</key>
+			<string>ColoredSwipeTextPrefs.CSTSwitchPickerCell</string>
+			<key>default</key>
+			<false/>
+			<key>defaults</key>
+			<string>com.pkgfiles.coloredswipetextprefs</string>
+			<key>switchKey</key>
+			<string>isTweakEnabled</string>
+			<key>colorKey</key>
+			<string>labelColor</string>
+			<key>cellTitleLabel</key>
+			<string>Enabled</string>
+			<key>cellSubtitleLabel</key>
+			<string>Enable/Disable the tweak.</string>
+			<key>height</key>
+			<real>60</real>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<real>1</real>
+			<key>footerText</key>
+			<string>Made with ❤️</string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+		<dict>
+			<key>cell</key>
+			<string>PSGroupCell</string>
+			<key>footerAlignment</key>
+			<real>1</real>
+			<key>footerText</key>
+			<string>© 2025, ★ Install Package Files</string>
+			<key>isStaticText</key>
+			<true/>
+		</dict>
+	</array>
+	<key>title</key>
+	<string> </string>
+</dict>
+</plist>
